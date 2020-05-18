@@ -42,5 +42,9 @@ Conclusions of the analysis are:
 
 -a predictive model with R2 better than 0.97 can be constructed
 
+-smaller properties are cheaper
+
+-less reviewed units are cheaper, even though they don't seem to have worse reviews
+
 # Acknowledgment
 Inspired by the work done here: https://www.kaggle.com/aleksandradeis/airbnb-seattle-reservation-prices-analysis
