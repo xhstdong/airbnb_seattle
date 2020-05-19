@@ -46,5 +46,9 @@ Conclusions of the analysis are:
 
 -less reviewed units are cheaper, even though they don't seem to have worse reviews
 
+# Full Write up
+Udacity requires a full write up of findings. Please see it here:
+https://medium.com/@xhstdong/how-to-get-the-best-bang-for-the-buck-visiting-the-emerald-city-bb5c913a0324
+
 # Acknowledgment
 Inspired by the work done here: https://www.kaggle.com/aleksandradeis/airbnb-seattle-reservation-prices-analysis
